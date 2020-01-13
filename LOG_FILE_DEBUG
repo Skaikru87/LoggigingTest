@@ -1,0 +1,13 @@
+2020-01-13 23:43:46:520 | main | INFO | com.example.demo.DemoApplication     | Starting DemoApplication on DESKTOP-NQP3PJ6 with PID 6676 (C:\Users\Mateusz\Documents\Tutoriale\demo\target\classes started by Mateusz in C:\Users\Mateusz\Documents\Tutoriale\demo)
+2020-01-13 23:43:46:529 | main | DEBUG| com.example.demo.DemoApplication     | Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-13 23:43:46:531 | main | INFO | com.example.demo.DemoApplication     | No active profile set, falling back to default profiles: default
+2020-01-13 23:43:51:647 | ing-1| INFO | hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:51:650 | ing-1| ERROR| hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:51:650 | ing-1| DEBUG| hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:51:707 | main | INFO | com.example.demo.DemoApplication     | Started DemoApplication in 6.33 seconds (JVM running for 7.931)
+2020-01-13 23:43:53:622 | ing-1| INFO | hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:53:623 | ing-1| ERROR| hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:53:624 | ing-1| DEBUG| hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:55:621 | ing-1| INFO | hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:55:621 | ing-1| ERROR| hedulerVERYddddddddddddddddddddddddd |  i am log
+2020-01-13 23:43:55:621 | ing-1| DEBUG| hedulerVERYddddddddddddddddddddddddd |  i am log
